@@ -1,5 +1,11 @@
+![logo](https://github.com/Vaibhav-Rawat12/Vaibhav-Rawat12/blob/main/Screenshot%20from%202024-02-13%2013-24-13.png)
+
+
+
+
 # 💫 About Me:
 🔭 *I’m currently working on:*  <br>I am leading the development of an AI chatbot named SwiftChat, leveraging my expertise in understanding the llamainde architecture and incorporating generative AI from Tech-I-Bridge Solutions.<br><br>👯 *I’m looking to collaborate on:*  <br>Fullstack projects<br><br>🌱 *I’m currently learning:*  <br> AWS Services and python .<br><br>💬 *Ask me about:*  <br>JavaScript, React, Nestjs, Node.js, AWS, and any general software development questions.<br><br>⚡ *Fun fact:*  <br>I love creating content.
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 ## 🌐 Socials:
